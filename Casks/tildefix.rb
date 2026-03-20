@@ -1,6 +1,6 @@
 cask "tildefix" do
-  version "1.0.1"
-  sha256 "c25f397d886d324d430a4edc4ccbf57b38f0b6ee26fcb7e93a07d4e360376d14"
+  version "1.0.2"
+  sha256 "d0240ffe330e4a5a6d60107a27cf49381f907fff3a0c5ddc0330ca918873e2a1"
 
   url "https://github.com/linkrage/TildeFix/releases/download/v#{version}/TildeFix-#{version}.zip"
   name "TildeFix"
